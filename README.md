@@ -1,0 +1,2 @@
+# lazyscript
+instalar lazysacritp
